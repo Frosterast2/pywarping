@@ -2,7 +2,7 @@
 
 import bz2
 import pathlib
-import urllib
+import urllib.requests
 
 from pywarping.base import CACHE_FOLDER
 
